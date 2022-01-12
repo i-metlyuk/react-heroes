@@ -1,0 +1,66 @@
+{
+  "heroes": [
+    {
+      "id": "36f16508-30ff-4dbe-aba3-afd0bcd9ce18",
+      "name": "asd",
+      "description": "asd",
+      "element": "fire"
+    },
+    {
+      "id": "6177de1d-0a0d-4109-bd9b-e90e3cfda48d",
+      "name": "asf",
+      "description": "h3h",
+      "element": "water"
+    },
+    {
+      "id": "42db374f-8bc1-4a91-a5fc-5c3bd739bd72",
+      "name": "h45j46",
+      "description": "wet",
+      "element": "fire"
+    },
+    {
+      "id": "ab2d9e19-8d88-4fa3-895e-3b6aa123e1f5",
+      "name": "h45j",
+      "description": "45j",
+      "element": "earth"
+    },
+    {
+      "id": "931c7e0f-92da-4758-910d-077beb017840",
+      "name": "j45j",
+      "description": "45j",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": "1",
+      "name": "all",
+      "text": "Все",
+      "styles": "btn btn-outline-dark"
+    },
+    {
+      "id": "2",
+      "name": "fire",
+      "text": "Огонь",
+      "styles": "btn btn-outline-danger"
+    },
+    {
+      "id": "3",
+      "name": "water",
+      "text": "Вода",
+      "styles": "btn btn-outline-primary"
+    },
+    {
+      "id": "4",
+      "name": "wind",
+      "text": "Ветер",
+      "styles": "btn btn-outline-success"
+    },
+    {
+      "id": "5",
+      "name": "earth",
+      "text": "Земля",
+      "styles": "btn btn-outline-secondary"
+    }
+  ]
+}
