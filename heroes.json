@@ -1,34 +1,22 @@
 {
   "heroes": [
     {
-      "id": "36f16508-30ff-4dbe-aba3-afd0bcd9ce18",
-      "name": "asd",
-      "description": "asd",
+      "id": "bf7d2bf1-8282-4373-bba9-5cf21a9417b6",
+      "name": "Valera",
+      "description": "Valera",
       "element": "fire"
     },
     {
-      "id": "6177de1d-0a0d-4109-bd9b-e90e3cfda48d",
-      "name": "asf",
-      "description": "h3h",
+      "id": "cb58635e-13dd-48ae-a164-58e5a3b3c10e",
+      "name": "Киркоров",
+      "description": "Киркоров",
+      "element": "fire"
+    },
+    {
+      "id": "5dc13ef4-b5a9-4c4e-8f92-bc01765bcd50",
+      "name": "Пугачева",
+      "description": "Пугачева",
       "element": "water"
-    },
-    {
-      "id": "42db374f-8bc1-4a91-a5fc-5c3bd739bd72",
-      "name": "h45j46",
-      "description": "wet",
-      "element": "fire"
-    },
-    {
-      "id": "ab2d9e19-8d88-4fa3-895e-3b6aa123e1f5",
-      "name": "h45j",
-      "description": "45j",
-      "element": "earth"
-    },
-    {
-      "id": "931c7e0f-92da-4758-910d-077beb017840",
-      "name": "j45j",
-      "description": "45j",
-      "element": "wind"
     }
   ],
   "filters": [
@@ -36,31 +24,31 @@
       "id": "1",
       "name": "all",
       "text": "Все",
-      "styles": "btn btn-outline-dark"
+      "styles": "btn btn-dark"
     },
     {
       "id": "2",
       "name": "fire",
       "text": "Огонь",
-      "styles": "btn btn-outline-danger"
+      "styles": "btn btn-danger"
     },
     {
       "id": "3",
       "name": "water",
       "text": "Вода",
-      "styles": "btn btn-outline-primary"
+      "styles": "btn btn-primary"
     },
     {
       "id": "4",
       "name": "wind",
       "text": "Ветер",
-      "styles": "btn btn-outline-success"
+      "styles": "btn btn-success"
     },
     {
       "id": "5",
       "name": "earth",
       "text": "Земля",
-      "styles": "btn btn-outline-secondary"
+      "styles": "btn btn-secondary"
     }
   ]
 }
